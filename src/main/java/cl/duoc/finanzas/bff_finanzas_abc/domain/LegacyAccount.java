@@ -10,6 +10,6 @@ import lombok.NoArgsConstructor;
 public class LegacyAccount {
     private Integer id;
     private String fecha;
-    private Double monto; // Asegúrate de que en Postman no envíes comillas aquí
+    private Double monto; 
     private String tipo;
 }
