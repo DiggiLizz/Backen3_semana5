@@ -1,0 +1,16 @@
+[
+  { "id": 1, "fecha": "2024/03/05", "monto": 1500, "tipo": "invalido" },
+  { "id": 2, "fecha": "11-12-2024", "monto": 1000, "tipo": "credito" },
+  { "id": 3, "fecha": "02/04/2024", "monto": -200, "tipo": "debito" },
+  { "id": 4, "fecha": "2024/04/27", "monto": 1200, "tipo": "invalido" },
+  { "id": 5, "fecha": "17-08-2024", "monto": null, "tipo": "debito" },
+  { "id": 6, "fecha": "2024-09-26", "monto": null, "tipo": "invalido" },
+  { "id": 7, "fecha": "2024/01/11", "monto": -200, "tipo": "credito" },
+  { "id": 8, "fecha": "2024-03-17", "monto": 800, "tipo": "debito" },
+  { "id": 9, "fecha": "2024/04/20", "monto": 800, "tipo": "credito" },
+  { "id": 10, "fecha": "16/04/2024", "monto": -200, "tipo": "debito" },
+  { "id": 28, "fecha": "2024-13-01", "monto": null, "tipo": "invalido" },
+  { "id": 34, "fecha": "2024-07-02", "monto": 1500, "tipo": "desconocido" },
+  { "id": 81, "fecha": "25-11-2024", "monto": -200, "tipo": "debito" },
+  { "id": 221, "fecha": "2024-03-28", "monto": null, "tipo": "debito" }
+]
