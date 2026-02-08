@@ -7,7 +7,7 @@ public class AccountWebDTO {
     private Double availableBalance;
     private String transactionDate;
 
-    // Getters y Setters manuales
+    // Getters y Setters manuales, no me funcionó el data de este dto, no se porque, arrojaba error
     public Integer getId() { return id; }
     public void setId(Integer id) { this.id = id; }
 
