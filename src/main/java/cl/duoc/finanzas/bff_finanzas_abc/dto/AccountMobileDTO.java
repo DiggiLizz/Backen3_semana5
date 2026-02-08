@@ -7,5 +7,4 @@ public class AccountMobileDTO {
     private String accountNumber;
     private String accountType;
     private Double availableBalance;
-    // Nota: Aquí NO incluimos datos sensibles como la dirección del cliente
 }
