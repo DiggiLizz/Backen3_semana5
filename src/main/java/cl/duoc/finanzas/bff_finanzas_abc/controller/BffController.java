@@ -22,7 +22,7 @@ public class BffController {
     @Autowired
     private AccountService accountService;
 
-    // --- CANAL MÓVIL (Ya lo tienes) ---
+    // --- CANAL MÓVIL  ---
     @PostMapping("/mobile")
     public List<AccountMobileDTO> getMobileAccounts(@RequestBody List<LegacyAccount> rawData) {
         return accountService.processAccounts(rawData);
